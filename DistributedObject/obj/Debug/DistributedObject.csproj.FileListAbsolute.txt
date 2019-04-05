@@ -1,0 +1,7 @@
+E:\Data\Information of Technology\2018-2019\2018-2019-HKII\SoftwareDev\Distributed_Object\DistributedObject\DistributedObject\bin\Debug\DistributedObject.exe.config
+E:\Data\Information of Technology\2018-2019\2018-2019-HKII\SoftwareDev\Distributed_Object\DistributedObject\DistributedObject\bin\Debug\DistributedObject.exe
+E:\Data\Information of Technology\2018-2019\2018-2019-HKII\SoftwareDev\Distributed_Object\DistributedObject\DistributedObject\bin\Debug\DistributedObject.pdb
+E:\Data\Information of Technology\2018-2019\2018-2019-HKII\SoftwareDev\Distributed_Object\DistributedObject\DistributedObject\obj\Debug\DistributedObject.csprojAssemblyReference.cache
+E:\Data\Information of Technology\2018-2019\2018-2019-HKII\SoftwareDev\Distributed_Object\DistributedObject\DistributedObject\obj\Debug\DistributedObject.csproj.CoreCompileInputs.cache
+E:\Data\Information of Technology\2018-2019\2018-2019-HKII\SoftwareDev\Distributed_Object\DistributedObject\DistributedObject\obj\Debug\DistributedObject.exe
+E:\Data\Information of Technology\2018-2019\2018-2019-HKII\SoftwareDev\Distributed_Object\DistributedObject\DistributedObject\obj\Debug\DistributedObject.pdb

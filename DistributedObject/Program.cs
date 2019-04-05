@@ -10,6 +10,12 @@ namespace DistributedObject
     {
         static void Main(string[] args)
         {
+            CStudent student = new CStudent();
+            student["Ho ten"] = "Dang Anh Hao";
+            student["DTB"] = 9.0;
+
+            Console.WriteLine(student["Ho ten"]);
+            Console.WriteLine(student["DTB"]);
         }
     }
 }
